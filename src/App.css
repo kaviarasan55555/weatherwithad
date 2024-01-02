@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* Add this to your existing CSS or create a new CSS file */
+.input-group {
+  margin-bottom: 20px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
